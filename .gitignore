@@ -1,0 +1,15 @@
+# Node & Frontend
+**/node_modules/
+**/dist/
+
+# Java & Backend
+**/target/
+**/.mvn/
+**/mvnw
+**/mvnw.cmd
+
+# IDEs & System files
+**/.idea/
+**/.vscode/
+*.iml
+.DS_Store
